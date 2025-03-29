@@ -1,3 +1,0 @@
-*.tox filter=lfs diff=lfs merge=lfs -text
-assets/poseClassifier/current/models/*.xml filter=lfs diff=lfs merge=lfs -text
-*.onnx filter=lfs diff=lfs merge=lfs -text
